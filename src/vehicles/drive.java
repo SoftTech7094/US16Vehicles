@@ -18,4 +18,8 @@ public class drive {
         // TODO code application logic here
     }
     
+    public void promtUser(){
+    
+        
+    }
 }
